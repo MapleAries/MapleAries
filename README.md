@@ -41,7 +41,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=black" />
-  <img src="https://img.shields.io/badge/NVIDIA%20RTX%203050-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20RTX%205060Ti-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS%20Hackintosh-000000?style=for-the-badge&logo=Apple&logoColor=white" />
 </p>
 
